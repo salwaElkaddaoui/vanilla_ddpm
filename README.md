@@ -1,2 +1,2 @@
 # vanilla_ddpm
-This repository contains a from-scratch implementation of Denoising Diffusion Probabilistic Models (DDPMs) using Pytorch. It uses a U-Net architecture for denoising. No classifier guidance, latent space compression, or acceleration tricks—just vanilla diffusion as described in the DDPM paper.
+This repository contains a from-scratch implementation of Denoising Diffusion Probabilistic Models (DDPMs), Ho, J., Jain, A., & Abbeel, P. (2020) in Pytorch. It uses a U-Net architecture for denoising. No classifier guidance, latent space compression, or acceleration tricks—just basic diffusion as described in the DDPM paper.
